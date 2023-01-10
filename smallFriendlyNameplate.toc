@@ -1,0 +1,6 @@
+## Interface: (Your interface number)
+## Title: smallFriendlyNameplate
+## Author: umoko
+## Version: 1.0
+
+main.lua
